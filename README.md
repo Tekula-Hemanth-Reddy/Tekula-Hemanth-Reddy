@@ -48,11 +48,11 @@ B.E 3rd year Computer Science Engineering student. Currently working in Applicat
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-<a href="https://github.com/Tekula-Hemanth-Reddy" style="display: inline;">
+<a href="https://github.com/Tekula-Hemanth-Reddy">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tekula-Hemanth-Reddy&theme=radical&hide=glsl,python" />
 </a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tekula-Hemanth-Reddy&&show_icons=true&theme=radical&line_height=27&v=5" alt="Hemanth's GitHub Stats" style="display: inline;" />
+<img src="https://github-readme-stats.vercel.app/api?username=Tekula-Hemanth-Reddy&&show_icons=true&theme=radical&line_height=27&v=5" alt="Hemanth's GitHub Stats" />
 
 
 <a href="https://github.com/Tekula-Hemanth-Reddy/seeuconnect">
