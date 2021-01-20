@@ -55,9 +55,9 @@ B.E 3rd year Computer Science Engineering student. Currently working in Applicat
 <img src="https://github-readme-stats.vercel.app/api?username=nikhilreddybilla28&&show_icons=true&theme=radical&line_height=27&v=5" alt="Nikhil's GitHub Stats" />
 
 
-<a href="https://github.com/nikhilreddybilla28/SIIM-ISIC-Melanoma-Classification">
+<a href="https://github.com/Tekula-Hemanth-Reddy/seeuconnect">
   <!-- Change the `github-readme-stats.nikhilreddybilla28.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nikhilreddybilla28&repo=SIIM-ISIC-Melanoma-Classification&theme=radical" />
+  <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nikhilreddybilla28&repo=SIIM-ISIC-Melanoma-Classification&theme=radical" /> -->
 </a>    
 
 
