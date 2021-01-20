@@ -52,13 +52,12 @@ B.E 3rd year Computer Science Engineering student. Currently working in Applicat
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilreddybilla28&theme=radical&hide=glsl,python" />
 </a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=nikhilreddybilla28&&show_icons=true&theme=radical&line_height=27&v=5" alt="Nikhil's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Tekula-Hemanth-Reddy&&show_icons=true&theme=radical&line_height=27&v=5" alt="Hemanth's GitHub Stats" />
 
 
-<a href="https://github.com/Tekula-Hemanth-Reddy/seeuconnect">
-  <!-- Change the `github-readme-stats.nikhilreddybilla28.vercel.app` to `github-readme-stats.vercel.app`  -->
+<!-- <a href="https://github.com/Tekula-Hemanth-Reddy/seeuconnect">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nikhilreddybilla28&repo=SIIM-ISIC-Melanoma-Classification&theme=radical" />
-</a>    
+</a>     -->
 
 
 ##  Contact Me :speech_balloon:
