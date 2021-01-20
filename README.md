@@ -62,10 +62,10 @@ B.E 3rd year Computer Science Engineering student. Currently working in Applicat
 
 
 ##  Contact Me :speech_balloon:
-[![Twitter Badge](https://img.shields.io/badge/-@Nikhil-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/neural_nets_)](https://twitter.com/neural_nets_) [![Linkedin Badge](https://img.shields.io/badge/-Nikhil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikilreddybilla/)](https://www.linkedin.com/in/nikilreddybilla/) [![Gmail Badge](https://img.shields.io/badge/-nikilreddybilla28@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nikilreddybilla28@gmail.com)](mailto:nikilreddybilla28@gmail.com) 
+[![Twitter Badge](https://img.shields.io/badge/-@Nikhil-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/neural_nets_)](https://twitter.com/HTekula) [![Linkedin Badge](https://img.shields.io/badge/-Nikhil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikilreddybilla/)](https://www.linkedin.com/in/hemanth-tekula-757b1a198/) [![Gmail Badge](https://img.shields.io/badge/-nikilreddybilla28@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nikilreddybilla28@gmail.com)](mailto:tekulahemanth@gmail.com) 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/nikhilreddybilla28/count.svg" />
+  <img src="https://profile-counter.glitch.me/Tekula-Hemanth-Reddy/count.svg" />
 </p>
 
 
