@@ -13,7 +13,7 @@
   <img align="left" alt="Hemanth's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://dsc.community.dev/u/mzvpng/#/about">
-  <img align="left" alt="Hemanth's DSC" width="22px" src='./images/dsc.png' />
+  <img align="left" alt="Hemanth's DSC" width="22px" src='./images/logodsc.png' />
 </a>
 <!-- <a href="https://medium.com/@icrypto1">
   <img align="left" alt="Hemanth's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
