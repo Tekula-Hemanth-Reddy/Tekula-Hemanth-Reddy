@@ -42,10 +42,10 @@ B.E 3rd year Computer Science Engineering student. Currently working in Applicat
 
 <code><img height="20" src="./images/android.png"></code>
 <code><img height="20" src="./images/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="./images/node.jpg"></code>
+<code><img height="20" src="./images/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="./images/mongodb.png"></code>
 
 
 <a href="https://github.com/Tekula-Hemanth-Reddy">
