@@ -68,5 +68,5 @@ B.E 3rd year Computer Science Engineering student. Currently working in Applicat
 </p>
 
 
-<p align="center"><a href="https://tekula-hemanth-reddy.github.io/" target="_blank>Fell free to reach me</a></p>
+<a href="https://tekula-hemanth-reddy.github.io/" target="_blank" align="center">Fell free to reach me</a>
 
