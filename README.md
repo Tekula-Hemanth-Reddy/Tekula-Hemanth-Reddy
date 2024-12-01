@@ -22,11 +22,11 @@
  React Native | Angular | NodeJS | ExpressJs | MongoDB
 
 ## About :sunglasses:
-B.E 3rd year Computer Science Engineering student. Currently working in Application Development . Passionate about Android Development , Web Development and open source. Interested in CFR & Healthcare
+Hello! I'm Hemanth Reddy Tekula. Precisely, An Innovative software developer with 3 years of experience in creating scalable applications using React Native, Angular, and Node.js. Demonstrated ability to enhance user experiences and optimize performance through creative solutions and effective teamwork. Art can attain first place in my hobbies list in which I admire and love to do!
 
 
 
-## Technologies :fire:
+<!-- ## Technologies :fire:
 - React.
 - Android.
 - NodeJS.
@@ -42,23 +42,24 @@ B.E 3rd year Computer Science Engineering student. Currently working in Applicat
 <code><img height="20" src="./images/node.jpg"></code>
 <code><img height="20" src="./images/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="./images/mongodb.png"></code>
+<code><img height="20" src="./images/mongodb.png"></code> 
 
 
 <a href="https://github.com/Tekula-Hemanth-Reddy">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tekula-Hemanth-Reddy&theme=radical&hide=glsl,python" />
-</a>
+</a> -->
 
 <img src="https://github-readme-stats.vercel.app/api?username=Tekula-Hemanth-Reddy&&show_icons=true&theme=radical&line_height=27&v=5" alt="Hemanth's GitHub Stats" />
 
 
-<a href="https://github.com/Tekula-Hemanth-Reddy/seeuconnect">
+<!-- <a href="https://github.com/Tekula-Hemanth-Reddy/seeuconnect">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Tekula-Hemanth-Reddy&repo=seeuconnect&theme=radical" />
-</a>    
+</a>    -->
 
 
 ##  Contact Me :speech_balloon:
-[![Twitter Badge](https://img.shields.io/badge/-@HTekula-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/HTekula)](https://twitter.com/HTekula) [![Linkedin Badge](https://img.shields.io/badge/-Hemanth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanth-tekula-757b1a198/)](https://www.linkedin.com/in/hemanth-tekula-757b1a198/) [![Gmail Badge](https://img.shields.io/badge/-tekulahemanth@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tekulahemanth@gmail.com)](mailto:tekulahemanth@gmail.com) 
+<!--[![Twitter Badge](https://img.shields.io/badge/-@HTekula-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/HTekula)](https://twitter.com/HTekula) -->
+[![Linkedin Badge](https://img.shields.io/badge/-Hemanth-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanth-tekula-757b1a198/)](https://www.linkedin.com/in/hemanth-tekula-757b1a198/) [![Gmail Badge](https://img.shields.io/badge/-tekulahemanth@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tekulahemanth@gmail.com)](mailto:tekulahemanth@gmail.com) 
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Tekula-Hemanth-Reddy/count.svg" />
