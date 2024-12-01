@@ -3,7 +3,7 @@
 
  # <a href="https://www.linkedin.com/in/hemanth-tekula-757b1a198/"> Hemanth Reddy Tekula </a> 👋
  
- <a href="https://twitter.com/HTekula">
+<!--  <a href="https://twitter.com/HTekula">
   <img align="left" alt="Hemanth's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/hemanth-tekula-757b1a198/">
@@ -11,18 +11,15 @@
 </a>
 <a href="https://github.com/Tekula-Hemanth-Reddy/">
   <img align="left" alt="Hemanth's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://dsc.community.dev/u/mzvpng/#/about">
-  <img align="left" alt="Hemanth's DSC" width="35px" src='./images/logodsc.png' />
-</a>
-<!-- <a href="https://medium.com/@icrypto1">
+</a> 
+<a href="https://medium.com/@icrypto1">
   <img align="left" alt="Hemanth's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a> -->
+</a>
 
 <br/>
-<br/>
+<br/>  -->
 
- React | Android | NodeJS | ExpressJs 
+ React Native | Angular | NodeJS | ExpressJs | MongoDB
 
 ## About :sunglasses:
 B.E 3rd year Computer Science Engineering student. Currently working in Application Development . Passionate about Android Development , Web Development and open source. Interested in CFR & Healthcare
