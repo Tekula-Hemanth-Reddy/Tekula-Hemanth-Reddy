@@ -1,7 +1,7 @@
 <img src="https://github.com/Tekula-Hemanth-Reddy/Tekula-Hemanth-Reddy/blob/main/githubgif.gif" alt="alt text" width="125" height="125" />
 
 
- # <a href="https://www.linkedin.com/in/hemanth-tekula-757b1a198/"> Hemanth Reddy Tekula </a> 👋
+ # <a href="https://tekula-hemanth-reddy.github.io/"> Hemanth Reddy Tekula </a> 👋
  
 <!--  <a href="https://twitter.com/HTekula">
   <img align="left" alt="Hemanth's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
